@@ -1,0 +1,127 @@
+= Manifiesto a favor de la soberanía tecnológica y de los derechos digitales de las ciudades
+ifndef::env-site,env-github[]
+include::_attributes.adoc[]
+endif::[]
+include::{partialsdir}/README.adoc[tag=metadata]
+:page-layout: manifesto
+
+{revnumber}
+
+== Nuestros valores y creencias
+
+.	Creemos en la *soberanía tecnológica* para las ciudades, para el control y autonomía total de sus tecnologías de la información y la comunicación (TIC), incluyendo infraestructuras de servicios, sitios web, aplicaciones y datos, en cumplimiento y con el apoyo de leyes que protegen los intereses de los municipios y sus ciudadanos.
++
+****
+La soberanía tecnológica ayuda a las ciudades a proteger los derechos de los ciudadanos mediante una mayor accesibilidad, transparencia y rendición de cuentas necesarios para el gobierno abierto.
+****
+
+.	Creemos que los *derechos digitales de los ciudadanos* se situarán en el centro de las políticas digitales de las ciudades y se protegerán mediante la aplicación de políticas de soberanía tecnológica y democracia digital.
++
+****
+Los derechos digitales de los ciudadanos incluyen los derechos de privacidad, seguridad, autodeterminación de la información y neutralidad, que permiten a los ciudadanos elegir qué pasa con su identidad digital, quién utiliza sus datos en línea y con qué fines. La democracia digital permite una mayor participación ciudadana en el diseño y la gobernanza de los servicios de las ciudades y de las ciudades.
+****
+
+.	Creemos que el *Software Libre*, *Datos abiertos* y *Estándares Abiertos*, *Formatos de documentos y datos y protocolos de comunicación* son las bases de la soberanía tecnológica para las ciudades y dan el mejor apoyo a los derechos digitales de nuestros ciudadanos.
++
+****
+El software libre, los datos abiertos y los estándares abiertos, los formatos y los protocolos, proporcionan a las ciudades y los ciudadanos herramientas que permiten el acceso y la prestación de servicios digitales no discriminatorios. No se trata sólo de un paradigma tecnológico, sino de una cultura que ayude a los individuos y las comunidades a proteger sus derechos digitales, así como conseguir la innovación y alcanzar objetivos beneficiosos para la sociedad de manera colaborativa.
+****
+
+.	Creemos que el *Software Libre* proporciona una base sólida para lograr mejores niveles de *eficiencia*, *estabilidad* y *interoperabilidad* necesarios para las plataformas TIC de las ciudades, a través de la propiedad del código fuente, el desarrollo y la participación colaborativa, que permiten la participación en la seguridad, validación y mejora de los servicios digitales.
++
+****
+La inversión municipal y la participación en proyectos de software libre ayudan a desarrollar habilidades locales y contribuyen a tecnologías que puedan reforzar los derechos digitales de los ciudadanos, al tiempo que aportan beneficios a la economía local. El software libre ofrece un valor económico en términos de sostenibilidad a largo plazo y de desarrollo económico local que es superior a cualquier ganancia financiera a corto plazo.
+****
+
+.	Creemos que el *Open City Data* es un elemento necesario de la soberanía tecnológica y debe ser gestionado y proporcionado de manera ética, transparente, accesible y sostenible.
++
+****
+Además de apoyar la innovación local, _Open City Data_ apodera a los ciudadanos y permite una mejor toma de decisiones en las ciudades basada en datos y, al proporcionar visibilidad y rendición de cuentas, induce más confianza en los gobiernos locales y una mayor participación ciudadana en la formulación de políticas.
+****
+
+.	Creemos que la adopción obligatoria de *Estándares Abiertos*, formatos de documentos y datos y protocolos de comunicación mejorará la transparencia, la coordinación entre las administraciones públicas y la colaboración con el sector privado.
++
+****
+Los estándares, los formatos y los protocolos abiertos compartidos entre administraciones públicas, hacen que los servicios sean mejores para los usuarios y sean más económicos. Los estándares abiertos simplifican el acceso a la información a todas las organizaciones y personas que quieran participar en el desarrollo de la ciudad.
+****
+
+Por lo tanto, nuestros valores principales son
+
+* Soberanía tecnológica, incluida la soberanía de datos
+* Derechos digitales por los ciudadanos
+* Interoperabilidad y accesibilidad
+* Desarrollo colaborativo, a través del uso compartido de recursos
+* Participación ciudadana e industrial en diseño y gobernanza tecnológica
+* Transparencia y auditabilidad, seguridad y privacidad
+
+== Nuestros objetivos
+
+****
+Todas las políticas digitales municipales den prioridad a la protección de los derechos digitales de los ciudadanos, reflejen sus deseos y se basen en su participación.
+****
+
+****
+Las TIC municipales implementen y apoyen los derechos digitales de los ciudadanos, incluyendo la privacidad, la seguridad, la responsabilidad y la neutralidad por el diseño, y den a los ciudadanos la capacidad de decidir qué pasa con su identidad digital, quién utiliza sus datos y con qué fines.
+****
+
+****
+Todos los servicios digitales municipales se implementen a través del software libre y todo el hardware esté bajo el control de la ciudad y ejecute el software libre.
+****
+
+****
+Las ciudades publiquen los componentes de sus infraestructuras de servicios TIC y las compartan con otras ciudades, para permitir una participación más amplia en la mejora de estos componentes compartidos, de manera individual o colectiva.
+****
+
+****
+Todos los componentes de las TIC de la ciudad cumplan los estándares abiertos, los formatos de documentos y datos y los protocolos de comunicación.
+****
+
+****
+Todos los datos procesados y publicados por las ciudades no requieran la compra y/o uso de herramientas o servicios de fuente propios y/o cerrados. El acceso y el uso de servicios digitales municipales no requerirá que los ciudadanos gestionen ningún software que no sea gratuito.
+****
+
+****
+Las ciudades se beneficien y fomenten un ecosistema local de socios, proveedores y usuarios con experiencia demostrada en la prestación de servicios e infraestructuras basadas en software libre y datos abiertos, utilizando estándares abiertos, formatos y protocolos. Todos los concursos municipales de servicios TIC puedan ser participados por miembros del sector TIC local con habilidades en software libre y datos abiertos.
+****
+
+****
+Las TIC de las ciudades permitan a los ciudadanos acceder, visualizar y analizar la información pública y fomentar el compromiso y la participación cívicas, p. ej. mediante API documentadas para que los usuarios puedan desarrollar su propio software para solicitar servicios de la ciudad. Los sitios web de la ciudad no tengan etiquetas de seguimiento, no utilicen recursos de sitios de terceros y todas sus funcionalidades funcionen correctamente incluso si el navegador del usuario no ejecuta el código Javascript.
+****
+
+== Acciones para conseguir nuestros objetivos
+
+****
+Las ciudades deben desarrollar e implementar un programa de derechos digitales y de igualdad, hacer el seguimiento y supervisión del respeto de los derechos digitales de los ciudadanos y crear conjuntamente herramientas y recursos para ayudar a avanzar en este esfuerzo.
+****
+
+****
+Las ciudades deberán contratar servicios TIC basados en software libre y sólo considerarán ofertas no libres cuando no haya una oferta basada en software libre. La contratación de componentes para las infraestructuras TIC de las ciudades debe permitir ofertas basadas exclusivamente en software libre y adjudicarán proyectos a ofertas basadas en software libre cuando se presenten.
+****
+
+****
+Las ciudades deben revisar y publicar como software libre los componentes existentes de su infraestructura TIC, en el que tiene los derechos para hacerlo. Además, las ciudades han de identificar los elementos de su infraestructura TIC que son oportunidades para implementar o sustituir el software libre.
+****
+
+****
+Las ciudades han de utilizar los recursos de _hardware_ controlados por la propia ciudad mediante la adopción de medidas técnicas y organizativas adecuadas para garantizar la protección de los datos y la privacidad de sus ciudadanos y visitantes.
+****
+
+****
+Las ciudades deben sumar sus presupuestos de infraestructura TIC para la adquisición común de tecnologías y servicios de software libre y herramientas para publicar conjuntos de datos abiertos.
+****
+
+****
+Las ciudades deben desarrollar internamente habilidades apropiadas relacionadas con el software libre y los datos abiertos para lograr una gestión autónoma de sus infraestructuras y servicios TIC.
+****
+
+****
+Las ciudades deben promover y apoyar a empresas y comunidades locales basadas en software libre y datos abiertos mediante el desarrollo de habilidades, fomentando la creación de redes, apoyando a empresas de software libre y datos abiertos, grupos de usuarios y eventos, y proporcionar recursos financieros y de otro tipo.
+****
+
+****
+Las ciudades deben apoyar y fomentar el desarrollo de currículos de software libre, datos abiertos y derechos digitales en sus instituciones educativas del área municipal, para crear una cultura de apertura y colaboración que dará soporte a las políticas de TIC de las ciudades para el futuro.
+****
+
+****
+Las ciudades deben revisar y publicar como datos abiertos todos los datos no confidenciales o privadas generadas por las TIC municipales y proporcionar plataformas para que otras entidades hagan lo mismo, para promover una relación transparente y colaborativa entre el gobierno de la ciudad y los ciudadanos.
+****
