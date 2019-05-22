@@ -5,7 +5,11 @@ endif::[]
 include::{partialsdir}/README.adoc[tag=metadata]
 :page-layout: manifesto
 
-{revnumber}
+v {revnumber}
+
+_Autoría_: {authors}
+
+_Contribuciones (miembros Advisory Board)_: {_contributors}
 
 == Nuestros valores y creencias
 
